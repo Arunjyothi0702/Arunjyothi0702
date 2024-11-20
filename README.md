@@ -6,8 +6,14 @@ I'm *ArunJyothi Guduru*, a passionate **Computer Science** graduate student at t
 ### 🌟 *Areas of Expertise*
 •⁠  ⁠🖥️ *Programming Languages*: Java ☕, HTML/CSS 🏗️, JavaScript 🌐, SQL 🗄️  
 •⁠  ⁠🤖 *Technologies*: Splunk, Web Services, REST APIs, Data Pipelines  
+   🌟Outstanding customer Service award for the years 2017 and 2018 during my service in BVRIT Hyderabad college student club<br>
+   🚀 Service Excellence award at Accenture Solutions Pvt. Ltd in 2022
+
 
  ⁠🏅 *Certifications*:   
+  - Completed ”AI for Everyone” course from Coursera in 2020.
+  - Obtained Silver Elite in NPTEL’s ’Joy of Computing using Python’ certification in 2019
+  - Completed a certification ’Training test on Java’ by Spoken Tutorial, IIT Bombay, in 2017
   - Business English Certification (BEC) from the University of Cambridge 📜  
   - Service Excellence and Outstanding Customer Service Awards 🏆  
 
