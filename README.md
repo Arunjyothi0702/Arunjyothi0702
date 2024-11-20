@@ -6,7 +6,8 @@ I'm *ArunJyothi Guduru*, a passionate **Computer Science** graduate student at t
 ### 🌟 *Areas of Expertise*
 •⁠  ⁠🖥️ *Programming Languages*: Java ☕, HTML/CSS 🏗️, JavaScript 🌐, SQL 🗄️  
 •⁠  ⁠🤖 *Technologies*: Splunk, Web Services, REST APIs, Data Pipelines  
-•⁠  ⁠🏅 *Certifications*:  
+
+ ⁠🏅 *Certifications*:  
   - Business English Certification (BEC) from the University of Cambridge 📜  
   - Service Excellence and Outstanding Customer Service Awards 🏆  
 
